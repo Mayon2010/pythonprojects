@@ -290,11 +290,5 @@ To propose changes:
 
 This application and supporting scripts are provided for educational purposes. Unless otherwise specified in repository metadata, treat the code as available under the MIT license for personal and educational use.
 
----
-
-# Other Projects
-
-This repository also contains other projects (games and experiments). See the older sections below for details on those projects. The Notes App documentation above is the recommended starting point if you're exploring the `notestest.py` functionality and related assets.
-
 <!-- End of file -->
 ```
